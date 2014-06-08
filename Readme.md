@@ -23,7 +23,7 @@ pa.campaigns(function (err, campaigns) {
 });
 ```
 
-```
+```js
 [
     {
       "campaign_id": "941e29f625f97b74620000e7",
